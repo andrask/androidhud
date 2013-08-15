@@ -1,3 +1,3 @@
 androidhud
 ==========
-![Example](https://github.com/andrask/androidhud/blob/master/example.png "Example")
+![alt text](https://raw.github.com/andrask/androidhud/master/example.png "Example")
